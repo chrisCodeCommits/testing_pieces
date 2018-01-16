@@ -1,3 +1,7 @@
+
+# This algorithm count the number of vowels inside a dictionairy.
+
+
 a = {'me':'11', 'you': '22', 'us': '33'}
 
 
